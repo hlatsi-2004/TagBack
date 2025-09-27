@@ -16,7 +16,7 @@ Installation / setup instructions ;
 
 Team members :
 
-Team: Hanief ababalwe mvumbi, omphemetse Nkge, Reatlegile Mokobate,mahlatsi suprise mamorobela 
+Team: mahlatsi suprise mamorobela ,Hanief ababalwe mvumbi, omphemetse Nkge, Reatlegile Mokobate,
 
 usage intructions:
 
