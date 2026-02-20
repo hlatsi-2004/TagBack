@@ -43,4 +43,5 @@ Open the live app prototype  here: https://preview--tag-back-buddy.lovable.app/
 - Enter the QR code or scan  
 - Browse the results to find matching items
 
-
+Review at:
+https://lovable.dev/projects/0704c4de-7cb8-4d48-a763-1edc6ecfadc5 
