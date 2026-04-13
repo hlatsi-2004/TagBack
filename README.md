@@ -1,11 +1,10 @@
 Project title : TagBack
 
-# Pico Warriors
 
 
 Short description :
 
-Introducing Pico Warriors, a lost-and-found prototype app designed for university staff and students to effortlessly locate their lost items, fostering a connected campus community
+Introducing TagBack, a lost-and-found prototype app designed for university staff and students to effortlessly locate their lost items, fostering a connected campus community
 
 Installation / setup instructions ;
 
@@ -13,10 +12,6 @@ Installation / setup instructions ;
 2. Open in your Java IDE
 3. Run Main.java or visual studio code
 
-
-Team members :
-
-Team: mahlatsi suprise mamorobela ,Hanief ababalwe mvumbi, omphemetse Nkge, Reatlegile Mokobate,
 
 usage intructions:
 
